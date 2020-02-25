@@ -1,0 +1,5 @@
+configuration {
+    show-icons: true;
+    icon-theme: "Papirus-Maia";
+    theme: "/home/geralvarez/.config/rofi/themes/distrotube.rasi";
+}
