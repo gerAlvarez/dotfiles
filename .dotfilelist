@@ -10,9 +10,6 @@
 .config/tilix/schemes/dracula.json
 .config/tilix/schemes/nord.json
 
-.dir_colors/.dir_colors
-.dir_colors/.dir_colors.backup
-
 .icons/Nordic/*
 
 .themes/Nordic/*
@@ -29,6 +26,7 @@
 .alacritty.yml
 .applist
 .bashrc
+.dir_colors
 .dotfilelist
 .gitconfig
 .tmux.conf
