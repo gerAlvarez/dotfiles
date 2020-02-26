@@ -16,7 +16,7 @@ set hlsearch                                      " Highlight matching search pa
 set incsearch                                     " Enable incremental search.
 set ignorecase                                    " Include matching uppercase words with lowercase search term.
 set noshowmode                                    " Hide the default mode text (e.g. -- INSERT -- below the statusline).
-set guifont=Hack\ Nerd\ Font\ Mono\ Regular\ 14   " Hack Nerd Fonts (https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack/Regular/complete)
+set guifont=Hack\ Nerd\ Font\ Mono\ 14            " Hack Nerd Fonts (https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack/Regular/complete)
 colorscheme nord                                  " Nord Theme (https://github.com/arcticicestudio/nord-vim)
 set updatetime=100                                " Controls the delay (in ms) before vim writes its swap file.
 
