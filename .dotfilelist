@@ -7,21 +7,12 @@
 .config/rofi/filebrowser.sh
 .config/rofi/finder.sh
 
-.config/tilix/schemes/dracula.json
 .config/tilix/schemes/nord.json
 
 .icons/Nordic/*
-
 .themes/Nordic/*
-
-.tmux/nord-tmux/*
-.tmux/tmux-sensible/*
-.tmux/tpm/*
-
-.vim/autoload/plug.vim
-.vim/colors/nord.vim
-.vim/pack/*
-.vim/plugged/*
+.tmux/*
+.vim/*
 
 .alacritty.yml
 .applist
